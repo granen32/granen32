@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Gia%20Jihye%20Jun&fontAlign=70&fontAlignY=40&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Grnen32%20Jun&fontAlign=70&fontAlignY=40&color=gradient"/>
 
 
 ### Base
