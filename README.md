@@ -1,4 +1,6 @@
-## Grane32
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Gia%20Jihye%20Jun&fontAlign=70&fontAlignY=40&color=gradient"/>
+
 
 ### Base
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=HTML5&logoColor=E34F26"/></a>
