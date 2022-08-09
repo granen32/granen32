@@ -11,9 +11,6 @@
 
 ### State
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/Redux-ffffff?style=flat&logo=Redux&logoColor=764ABC"/></a>
-<a href="#none" target="_blank"><img src="https://img.shields.io/badge/ReduxSaga-999999?style=flat&logo=Redux-Saga&logoColor=ffffff"/></a>
-<a href="#none" target="_blank"><img src="https://img.shields.io/badge/ReduxPersist-ffffff?style=flat&logo=Redux&logoColor=764ABC"/></a>
-<a href="#none" target="_blank"><img src="https://img.shields.io/badge/ReduxToolkit-ffffff?style=flat&logo=Redux&logoColor=764ABC"/></a>
 <a href="#none" target="_blank"><img src="https://img.shields.io/badge/ReactQuery-ffffff?style=flat&logo=ReactQuery&logoColor=FF4154"/></a>
 
 
